@@ -12,7 +12,7 @@ export default function Home() {
               My passion for technology drives me to deliver efficient solutions and grow as a developer.
             </p>
             <p className="text-lg text-gray-700 italic flex justify-center items-center">
-              "Technology is best when it brings people together."
+            "The only way to do great work is to love what you do."
             </p>
 
             
