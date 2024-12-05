@@ -1,5 +1,5 @@
 import AboutMe from "./components/aboutPage";
-import Contact from "./components/contactPage";
+// import Contact from "./components/contactPage";
 import Education from "./components/eduPage";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
@@ -35,11 +35,11 @@ export default function App() {
          <Intern/>
       </section>
       
-      <section id="contact">
-        <Contact />
+      <section id="footer">
+        <Footer />
       </section>
       
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

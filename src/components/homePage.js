@@ -22,7 +22,7 @@ export default function Home() {
                 download="Santhiya_Resume"      
                 className="w-64 px-6 py-3 text-center text-lg font-semibold text-white bg-transparent border-2 border-white rounded-full transition-all duration-300 hover:bg-pink-500 hover:border-pink-500 hover:text-white"
               >
-                Download Resume of santiya
+                Download Resume 
               </a>
             </div>
           </div>

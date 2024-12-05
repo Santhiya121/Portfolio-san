@@ -11,7 +11,7 @@ export default function Header() {
         
         <nav className="hidden md:block">
           <ul className="flex space-x-6 text-white">
-            {['Home', 'About', 'Projects', 'Education','Intern', 'Contact'].map((item) => (
+            {['Home', 'About', 'Projects', 'Education','Intern'].map((item) => (
               <li key={item} className="relative group">
                 <a
                   href={`#${item.toLowerCase()}`} 
@@ -35,7 +35,7 @@ export default function Header() {
         {toggleMenu && (
           <nav className="md:hidden fixed top-20 left-0 bg-white w-full h-auto shadow-lg z-10">
             <ul className="flex flex-col items-center space-y-4 p-6 text-black">
-              {['Home', 'About', 'Projects', 'Education','Intern', 'Contact'].map((item) => (
+              {['Home', 'About', 'Projects', 'Education','Intern'].map((item) => (
                 <li key={item} className="relative group">
                   <a
                     href={`#${item.toLowerCase()}`}

@@ -4,22 +4,22 @@ export default function Projects() {
         title: "Food Recipe Website",
         subtitle: "Using HTML, CSS, and JavaScript to create a responsive webpage",
         imageUrl: "/static/project_1.jpeg", 
-        codeUrl: "https://santhiya121.github.io/Food-Recipe-Webpage/",
+        codeUrl: "https://github.com/Santhiya121/Food-Recipe-Webpage.git",
         liveUrl: "https://santhiya121.github.io/Food-Recipe-Webpage/"
       },
       {
-        title: "Project 2",
-        subtitle: "Using HTML, CSS, and JavaScript to create a responsive webpage",
-        imageUrl: "/path/to/project2-image.jpg",
-        codeUrl: "https://github.com/your-username/project2",
-        liveUrl: "https://project2-live-site.com"
+        title: "E-Commerce Website",
+        subtitle: "This e-commerce website is built with Django, offering secure user authentication, product management, and a seamless shopping experience. ",
+        imageUrl: "/static/e_com.png",
+        codeUrl: "https://github.com/Santhiya121/E_comm_page_django.git",
+        liveUrl: "https://github.com/Santhiya121/E_comm_page_django.git"
       },
       {
-        title: "Project 3",
-        subtitle: "Using HTML, CSS, and JavaScript to create a responsive webpage",
-        imageUrl: "/path/to/project3-image.jpg",
-        codeUrl: "https://github.com/your-username/project3",
-        liveUrl: "https://project3-live-site.com"
+        title: "Learning Management System",
+        subtitle: "This Learning Management System is built using ReactJS, Node.js, and MongoDB, offering efficient course management, user interaction, and real-time data handling.",
+        imageUrl: "/static/lms.png",
+        codeUrl:"https://github.com/Santhiya121/Admin.git",
+        liveUrl: "https://github.com/Santhiya121/Admin.git"
       },
     ];
   

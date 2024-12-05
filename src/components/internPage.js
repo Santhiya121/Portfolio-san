@@ -9,20 +9,20 @@ export default function Intern() {
       title: "Front-end Development Internship",
       company: "Naso Tech, Chennai",
       description:
-        "Built responsive websites and enhanced frontend functionality.",
-      certificateImage: "/static/Monolith.png",
+        "Developed a Spotify clone focusing on dynamic UI and seamless user experience.",
+      certificateImage:"/static/Naso.jpg" ,
       fullDetails:
-        "During this internship, I worked on frontend projects, built responsive designs using React and Tailwind CSS, and integrated APIs for seamless user experiences.",
+        "Built a Spotify clone using React, emphasizing front-end development. Implemented features such as music search, playlists, and user-friendly interfaces, ensuring responsive and visually appealing design",
     },
     {
       id: 2,
       title: "Web Development Internship",
       company: "Monolith Technology",
       description:
-        "Focused on software development lifecycle and backend API integration.",
-      certificateImage: "/static/Naso.jpg",
+        "Worked on full-stack web development using React, Express, and MongoDB.",
+      certificateImage: "/static/Monolith.png",
       fullDetails:
-        "During this internship, I developed RESTful APIs, optimized database queries, and contributed to scalable application architectures using React.js, Node.js, and MySQL.",
+        "During this internship, I developed and maintained web applications using React for the front end, Express.js for the backend, and MongoDB for database management. Contributed to designing RESTful APIs and building scalable, responsive, and interactive user interfaces",
     },
   ];
 
